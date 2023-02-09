@@ -25,7 +25,7 @@ $buttonExit = "[Name:btnExit]"
 
 $iTests = 2 ; start tracking total number of tests
 ;let's add a label at the end of each test. could have been done before.
-Global $aTest[$iTests][9] = [[2,4,6,"30.00","48.00","54.00","132.00","","EP1"], _ ; remember first index
+Global $aTest[$iTests][9] = [[3,4,6,"30.00","48.00","54.00","132.00","","EP1"], _ ; remember first index
 					[1,2,3,"15.00","24.00","27.00","66.00","","EP2"]]
 ; starting totals
 $iPassed = 0
